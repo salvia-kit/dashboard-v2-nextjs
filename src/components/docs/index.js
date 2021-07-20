@@ -310,7 +310,7 @@ export default function Docs() {
               Replace your layout by the
               <span className="px-1 font-medium">DashboardLayout</span> imported
               from
-              <span className="px-1 font-medium">dashboard/layout.js</span>
+              <strong className="px-1 font-medium">dashboard/layout.js</strong>
             </li>
           </ul>
         </div>

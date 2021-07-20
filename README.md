@@ -1,5 +1,7 @@
 # Salvia-kit Dashboard v2 Next.js
 
+![Salvia-kit Dashboard v2](https://res.cloudinary.com/beloved/image/upload/v1626789450/dashboards/dashv2_srg61c.jpg)
+
 ## 📋 Documentation
 You can see the documentation on [http://localhost:3000/admin/documentation](http://localhost:3000/admin/documentation)
 
